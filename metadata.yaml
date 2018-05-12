@@ -1,0 +1,31 @@
+_repo: -Martin-Of-Nitendi---and-The-River-Of-Dreams--13-1901_24641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, Australian'
+- !lcsh 'Short stories'
+- !lcsh 'Pacific Area -- Social life and customs -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PR'
+title: "\"Martin Of Nitendi\"; and The River Of Dreams\r\n1901"
+url: http://www.gutenberg.org/ebooks/24641
